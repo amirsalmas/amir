@@ -1,0 +1,16 @@
+data/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.git/
+.gitignore
+xmrig
+xmrig.exe
+xmrig.zip
+*.log
+README.md
+start.bat
+start.sh
+railway.toml
