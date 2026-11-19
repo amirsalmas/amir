@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+venv/
+.env
+xmrig
+xmrig.exe
+xmrig.zip
+*.log
